@@ -8,9 +8,9 @@ Telegram Bot credentials from Botfather
 
 # Installation
 Install node modules
-`npm install
+`npm install`   
 
-Create a file called `reminders.json` in the root directory and add this stub array:
+Create a file called `reminders.json` in the root directory and add this stub array:   
 `{  
     "reminders": []  
 }`  
