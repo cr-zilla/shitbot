@@ -4,7 +4,16 @@ A Telegram bot for monitoring recently added pairs on Uniswap using their Subgra
 # Requirements
 Node.js v16 or higher  
 Etherscan API key  
-Telegram Bot credentials from Botfather  
+Telegram Bot credentials from Botfather
+
+# Installation
+Install node modules
+`npm install
+
+Create a file called `reminders.json` in the root directory and add this stub array:
+```{
+    "reminders": []
+}```
 
 # Using ShitBot with PM2
 To run the Shitbot app:
