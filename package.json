@@ -1,6 +1,6 @@
 {
-  "name": "cg-to-notion",
-  "version": "1.0.0",
+  "name": "shitbot",
+  "version": "0.0.2",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -20,7 +20,6 @@
     "node-cache": "^5.1.2",
     "node-fetch": "^3.3.1",
     "node-telegram-bot-api": "^0.61.0",
-    "proper-lockfile": "^4.1.2",
     "telegram-bot-api": "^2.0.1"
   }
 }
