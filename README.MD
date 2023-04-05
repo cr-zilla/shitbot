@@ -11,9 +11,9 @@ Install node modules
 `npm install
 
 Create a file called `reminders.json` in the root directory and add this stub array:
-```{
-    "reminders": []
-}```
+`{  
+    "reminders": []  
+}`  
 
 # Using ShitBot with PM2
 To run the Shitbot app:
